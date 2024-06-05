@@ -1,4 +1,4 @@
-namespace aspnetapp
+﻿namespace Report.Core.Entity
 {
     public class Counter
     {

@@ -1,3 +1,7 @@
 
 /aspnetapp/bin
 /.vs
+/Report.Core/bin/Debug/net8.0
+/aspnetapp/obj
+/aspnetapp/obj
+/Report.Core/obj

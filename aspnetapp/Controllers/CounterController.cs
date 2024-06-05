@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using aspnetapp;
+using Report.Core.Entity;
+using Report.Core.Context;
 
 public class CounterRequest {
     public string action { get; set; }
